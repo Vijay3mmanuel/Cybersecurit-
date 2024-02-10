@@ -1,40 +1,40 @@
-# Cybersecurité Website
+# Site Cybersécurité
 
-This is a website for Cybersecurité (cybersecurity) purposes.
+Ceci est un site Web à des fins de Cybersécurité.
 
-## Table of Contents
+## Table des matières
 
 - [Description](#description)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Utilisation](#utilisation)
+- [Contribuer](#contribuer)
+- [Licence](#licence)
 
 ## Description
 
-This repository contains the code for a Cybersecurité website. It includes various sections such as:
-- Homepage with navigation
-- Articles section
+Ce référentiel contient le code d'un site Internet de Cybersécurité. Il comprend différentes sections telles que :
+- Page d'accueil avec navigation
+- Rubrique Articles
 - Contact modal
-- Popular articles section
-- Footer with social media links
+- Section d'articles populaires
+- Pied de page avec liens vers les réseaux sociaux
 
-## Usage
+## Utilisation
 
-To use this website:
-1. Clone this repository to your local machine.
-2. Open the `homepage.html` file in a web browser.
-3. Navigate through the website using the provided links and buttons.
+Pour utiliser ce site Web :
+1. Clonez ce référentiel sur votre ordinateur local.
+2. Ouvrez le fichier « homepage.html » dans un navigateur Web.
+3. Naviguez sur le site Web à l'aide des liens et des boutons fournis.
 
-## Contributing
+## Contribuant
 
-Contributions are welcome. If you'd like to contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Create a new Pull Request.
+Les contributions sont les bienvenues. Si vous souhaitez contribuer :
+1. Forkez le référentiel.
+2. Créez une nouvelle branche (`git checkout -b feature/your-feature-name`).
+3. Effectuez vos modifications.
+4. Validez vos modifications (`git commit -am 'Add some feature'`).
+5. Poussez vers la branche (`git push origin feature/your-feature-name`).
+6. Créez une nouvelle demande de tirage.
 
-## License
+## Licence
 
-This project is licensed under the [MIT License](LICENSE).
+Ce projet est sous licence [Licence MIT] (LICENSE).
