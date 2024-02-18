@@ -28,4 +28,4 @@ CyberShieldPro est un site Web dédié à fournir des informations à jour sur l
 1. Clonez le référentiel :
 
 ```bash
-clone git https://github.com/yourusername/cybershieldpro.git
+clone git https://github.com/Vijay3mmanuel/cybershieldpro.git
