@@ -1,40 +1,31 @@
-# Site Cybersécurité
+# CyberShieldPro - Site Web de cybersécurité
 
-Ceci est un site Web à des fins de Cybersécurité.
+Ce référentiel contient le code source de CyberShieldPro, un site Web de cybersécurité visant à fournir des articles informatifs et des ressources liés à la cybersécurité.
 
 ## Table des matières
 
-- [Description](#description)
+- [Introduction](#introduction)
+- [Fonctionnalités](#fonctionnalités)
+- [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
-## Description
+## Introduction
 
-Ce référentiel contient le code d'un site Internet de Cybersécurité. Il comprend différentes sections telles que :
-- Page d'accueil avec navigation
-- Rubrique Articles
-- Contact modal
-- Section d'articles populaires
-- Pied de page avec liens vers les réseaux sociaux
+CyberShieldPro est un site Web dédié à fournir des informations à jour sur les tendances, les actualités et les meilleures pratiques en matière de cybersécurité. Il offre une plate-forme permettant aux utilisateurs d'accéder à des articles, des vidéos et des ressources liées à la cybersécurité pour les aider à rester informés et en sécurité dans le monde numérique.
 
-## Utilisation
+## Caractéristiques
 
-Pour utiliser ce site Web :
-1. Clonez ce référentiel sur votre ordinateur local.
-2. Ouvrez le fichier « homepage.html » dans un navigateur Web.
-3. Naviguez sur le site Web à l'aide des liens et des boutons fournis.
+- Conception réactive pour une navigation transparente sur tous les appareils.
+- Navigation interactive avec un menu hamburger pour appareils mobiles.
+- Section d'articles présentant les dernières actualités et tendances en matière de cybersécurité.
+- Fenêtres modales pour une interaction utilisateur améliorée, comme contacter les administrateurs du site Web et lire des articles complets.
+- Fonctionnalité de recherche pour trouver facilement des articles par titre.
 
-## Contribuant
+##Installation
 
-Les contributions sont les bienvenues. Si vous souhaitez contribuer :
-1. Forkez le référentiel.
-2. Créez une nouvelle branche (`git checkout -b feature/your-feature-name`).
-3. Effectuez vos modifications.
-4. Validez vos modifications (`git commit -am 'Add some feature'`).
-5. Poussez vers la branche (`git push origin feature/your-feature-name`).
-6. Créez une nouvelle demande de tirage.
+1. Clonez le référentiel :
 
-## Licence
-
-Ce projet est sous licence [Licence MIT] (LICENSE).
+```bash
+clone git https://github.com/yourusername/cybershieldpro.git
